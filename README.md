@@ -7,7 +7,9 @@ Consider a square loop of current in the xy-plane with sides of length L
 with its center at the origin.
 
 \center
-![image](HWquestion.png  | width=100)
+<img src="Homework Question.png" width="100">
+
+
 
 **Original:** Find the magnetic field on the center axis (xy-axis) as a
 function of z.\
