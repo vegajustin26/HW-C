@@ -25,7 +25,7 @@ Example Output
 --------------
 
 ![Output with $I = 2A$, $L = 5$
-meters]("../Physics Labs/PHYS3602/HWC/HW C (1).png)
+meters](HW C (1).png)
 
 ![Output with $I = 2A$, $L = 5$
 meters]("../Physics Labs/PHYS3602/HWC/HW C (2).png)
