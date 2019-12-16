@@ -27,5 +27,11 @@ Example Output
 ![Output with $I = 2A$, $L = 5$
 meters](ExOutput.png)
 
+#Output with $I = 2A$, $L = 5$
+meters#
+
 ![Output with $I = 2A$, $L = 5$
 meters](ExOutput1.png)
+
+#Output with $I = 2A$, $L = 5$
+meters#
