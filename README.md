@@ -6,9 +6,7 @@ Problem:
 Consider a square loop of current in the xy-plane with sides of length L
 with its center at the origin.
 
-\center
-<img src="HWquestion.png" width="100">
-
+<img src="HWquestion.png" width="200">
 
 
 **Original:** Find the magnetic field on the center axis (xy-axis) as a
