@@ -19,7 +19,7 @@ axis for y = 0, as a function of x and z.
 Code
 ====
 
-The Python script calls for the user to specify length (L) and current values for the calculation. It will then generate a coordinate grid for -L ≤ x ≤ L and -10 ≤ z ≤ 10 and calculates the magnetic field at each point.
+The Python script calls for the user to specify length (L) and current (I) values for the calculation. It will then generate a coordinate grid for -L ≤ x ≤ L and -10 ≤ z ≤ 10 and calculates the magnetic field at each point.
 
 Example Output
 --------------
@@ -27,11 +27,11 @@ Example Output
 ![Output with $I = 2A$, $L = 5$
 meters](ExOutput.png)
 
-#Output with $I = 2A$, $L = 5$
-meters#
+###Output with $I = 2A$, $L = 5$
+meters
 
 ![Output with $I = 2A$, $L = 5$
 meters](ExOutput1.png)
 
-#Output with $I = 2A$, $L = 5$
-meters#
+###Output with $I = 2A$, $L = 5$
+meters
