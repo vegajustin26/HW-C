@@ -24,14 +24,10 @@ The Python script calls for the user to specify length (L) and current (I) value
 Example Output
 --------------
 
-![Output with $I = 2A$, $L = 5$
-meters](ExOutput.png)
+![output](ExOutput.png)
 
-### Output with $I = 2A$, $L = 5$
-meters
+### Output with I = 2A, L = 5 meters
 
-![Output with $I = 2A$, $L = 5$
-meters](ExOutput1.png)
+![output1](ExOutput1.png)
 
-### Output with $I = 2A$, $L = 5$
-meters
+### Output with I = 3A, L = 3 meters
