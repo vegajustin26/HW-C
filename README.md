@@ -1,4 +1,4 @@
-This was a computational homework assignment for Darien Wood's section of **PHYS3602: Electricity and Magnetism** in Fall 2019 at Northeastern University.
+This was a computational homework assignment for Darien Wood's section of **PHYS3602: Electricity and Magnetism** in Fall 2019 at Northeastern University. Students were instructed to model an electrostatics problem and provide a visual output of their calculations.
 
 Problem:
 ========
@@ -9,7 +9,7 @@ with its center at the origin.
 <img src="HWquestion.png" width="200">
 
 
-**Original:** Find the magnetic field on the center axis (xy-axis) as a
+**Original HW Problem:** Find the magnetic field on the center axis (xy-axis) as a
 function of z.\
 \
 **Modification:** Visualize the magnetic field on and off the center
