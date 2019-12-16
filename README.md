@@ -7,7 +7,7 @@ Consider a square loop of current in the xy-plane with sides of length L
 with its center at the origin.
 
 \center
-<img src="Homework Question.png" width="100">
+<img src="HWquestion.png" width="100">
 
 
 
